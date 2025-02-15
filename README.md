@@ -18,11 +18,16 @@ Works with .png,.jpg,and more.
 Built using TenserFlow,OpenCV,and NumPy for efficient processing.
 
 # Requirements
--**Python 3.x** – Required to run Jupyter Notebook
--**Jupyter Notebook** – Interactive coding environment
--**TensorFlow** – AI-based image selection (VGG16 model)
--**OpenCV** – Image processing and manipulation
--**NumPy** – Numerical computations
--**Scikit-Image** – Image similarity analysis
+-**Python 3.x** – Required to run Jupyter Notebook.
+
+-**Jupyter Notebook** – Interactive coding environment.
+
+-**TensorFlow** – AI-based image selection (VGG16 model).
+
+-**OpenCV** – Image processing and manipulation.
+
+-**NumPy** – Numerical computations.
+
+-**Scikit-Image** – Image similarity analysis.
 
 
