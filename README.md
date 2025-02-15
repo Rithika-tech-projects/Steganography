@@ -30,11 +30,11 @@ This project uses AI-powered steganography, where a VGG16 model selects the best
 
 - Scikit Image
 
- -**How It Works**
+ # How It Works
 
 *This project utilizes AI-based image selection and steganography techniques to hide messages inside images securely. Below is an overview of the working process:
 
-🔹 Step 1: Image Selection Using AI
+🔹-**Step 1:** Image Selection Using AI
 
 *The program scans all images in the images/ folder.
 
@@ -43,7 +43,7 @@ This project uses AI-powered steganography, where a VGG16 model selects the best
 *The AI selects the most suitable image for steganography based on extracted features.
 
 
-🔹 Step 2: Message Encryption into Image
+🔹 -**Step 2:** Message Encryption into Image
 
 *The selected image is processed to embed a secret message inside its pixel data.
 
@@ -52,7 +52,7 @@ This project uses AI-powered steganography, where a VGG16 model selects the best
 *The modified image is saved for later retrieval.
 
 
-🔹 Step 3: Message Extraction (Decryption)
+🔹 -**Step 3:** Message Extraction (Decryption)
 
 *The recipient loads the encrypted image.
 
