@@ -1,5 +1,5 @@
 # Steganography using AI with python
-This project uses AI-powered steganography, where a VGG16 model selects the best image for embedding a secret message. Built with Python, OpenCV, NumPy, and TensorFlow, it ensures secure message hiding and extraction.
+* This project integrates AI-driven image selection with steganography to securely hide messages within images. Using a pre-trained deep learning model (VGG16), it analyzes images and selects the most suitable one for encryption. The chosen image is then processed to embed a hidden message, ensuring security and privacy. The system also supports message extraction and decryption, making it an effective approach for secure communication.
 # Features
 
 **AI-Based Image Selection:**
@@ -59,7 +59,8 @@ This project uses AI-powered steganography, where a VGG16 model selects the best
 * The program extracts and decrypts the hidden message from the image.
 
 
-* This approach ensures secure and intelligent data hiding while leveraging AI for optimized image selection.
+
+
 
   
 
