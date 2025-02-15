@@ -30,6 +30,8 @@
 
 - Scikit Image
 
+- Create a images folder with atleat 5 images in it.
+
  # How It Works
 
 * This project utilizes AI-based image selection and steganography techniques to hide messages inside images securely. Below is an overview of the working process:
