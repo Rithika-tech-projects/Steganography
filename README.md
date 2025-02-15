@@ -30,7 +30,7 @@
 
 - Scikit Image
 
-- Create a images folder with atleat 5 images in it.
+- Create a images folder with atleast 5 images in it.
 
  # How It Works
 
