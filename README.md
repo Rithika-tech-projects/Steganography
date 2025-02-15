@@ -6,16 +6,16 @@ This project uses AI-powered steganography, where a VGG16 model selects the best
 * Uses a VGG16 deep learning model to analyse and selects the best image for steganography.
 
 **Secure Message Embedding:**
-Hides text messagws within the image.
+* Hides text messagws within the image.
 
 **Loseless Extraction:**
-Ensures accurate retrieval of hidden messages.
+* Ensures accurate retrieval of hidden messages.
 
 **Supports Multiple Image Formats:**
-Works with .png,.jpg,and more.
+* Works with .png,.jpg,and more.
 
 **Python Based Implementation:**
-Built using TenserFlow,OpenCV,and NumPy for efficient processing.
+* Built using TenserFlow,OpenCV,and NumPy for efficient processing.
 
 # Requirements
 - Python 3.x
@@ -28,6 +28,6 @@ Built using TenserFlow,OpenCV,and NumPy for efficient processing.
 
 - NumPy 
 
--**Scikit-Image** – Image similarity analysis.
+- Scikit-Image 
 
 
