@@ -1,0 +1,15 @@
+Installation of the requirements: 
+
+1.create a text file and rename it as requirements.txt .
+2.Now add the below contents into the file and save the file.
+
+numpy
+opencv-python
+tensorflow
+scikit-image
+matplotlib
+jupyter
+
+3.Open the command prompt,type the below code and hit enter.
+   
+     pip install -r requirements.txt
