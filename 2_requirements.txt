@@ -13,3 +13,8 @@ jupyter
 3.Open the command prompt,type the below code and hit enter.
    
      pip install -r requirements.txt
+
+
+
+Creating a image folder:(For encryption purpose)
+ create a folder named images and save atleast 5 images with high resolution, so that ai selects best image for encryption purpose.
